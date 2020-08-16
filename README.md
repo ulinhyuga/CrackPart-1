@@ -15,3 +15,10 @@ $ git clone https://github.com/ulinNha/B43sCrack
 $ pip install requests bs4 python3 
 
 $ pip install mechanize
+
+
+# running tools
+
+$ cd B43sCrack
+
+$ python3 FbCrack.py
