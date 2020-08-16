@@ -1,5 +1,18 @@
 # B43sCrack
+
 is a tool to hack other people's Facebook using the cookie login method
+
+# Screenshot
+[Pict 1]
+![github.small](https://github.com/ulinNha/B43sCrack/blob/master/image1.png)
+
+[Pict 2]
+![github-small](https://github.com/ulinNha/B43sCrack/blob/master/image2.png)
+
+[Pict 3]
+![github-small](https://github.com/ulinNha/B43sCrack/blob/master/image3.png)
+
+
 # Install packages
 
 [Package installation in termux]
