@@ -4,16 +4,13 @@ is a tool to hack other people's Facebook using the cookie login method
 
 # Screenshot
 
-[Pict 1]
-the introduction of your name is free:)
+=> STEP 1
 ![github.small](https://github.com/ulinNha/B43sCrack/blob/master/image1.png)
 
-[Pict 2]
-Facebook login using fb cookies.
+=> STEP 2
 ![github-small](https://github.com/ulinNha/B43sCrack/blob/master/image2.png)
 
-[Pict 3]
-image in the tool after you log in cookies:)
+=> STEP 3
 ![github-small](https://github.com/ulinNha/B43sCrack/blob/master/image3.png)
 
 
