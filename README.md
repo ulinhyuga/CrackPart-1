@@ -22,3 +22,12 @@ $ pip install mechanize
 $ cd B43sCrack
 
 $ python3 FbCrack.py
+
+# second application
+
+download the http canary application
+on the google play store to retrieve
+your fb cookies.
+
+good luck, use this tool properly and wisely
+don't use it wrong.
