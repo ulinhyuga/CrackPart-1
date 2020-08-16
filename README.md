@@ -3,13 +3,17 @@
 is a tool to hack other people's Facebook using the cookie login method
 
 # Screenshot
+
 [Pict 1]
+the introduction of your name is free:)
 ![github.small](https://github.com/ulinNha/B43sCrack/blob/master/image1.png)
 
 [Pict 2]
+Facebook login using fb cookies.
 ![github-small](https://github.com/ulinNha/B43sCrack/blob/master/image2.png)
 
 [Pict 3]
+image in the tool after you log in cookies:)
 ![github-small](https://github.com/ulinNha/B43sCrack/blob/master/image3.png)
 
 
