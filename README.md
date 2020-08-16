@@ -26,7 +26,7 @@ $ pkg install git
 
 $ git clone https://github.com/ulinNha/B43sCrack
  
-$ pip install requests bs4 python3 
+$ pip install requests bs4
 
 $ pip install mechanize
 
