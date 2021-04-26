@@ -24,7 +24,7 @@ $ pkg install python
 
 $ pkg install git 
 
-$ git clone https://github.com/ulinNha/B43sCrack
+$ git clone https://github.com/Cda2ptnia/B43sCrack
  
 $ pip install requests bs4
 
