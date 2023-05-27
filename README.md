@@ -1,4 +1,4 @@
-# B43sCrack
+# CarckPart-1
 
 is a tool to hack other people's Facebook using the cookie login method
 
@@ -24,7 +24,7 @@ $ pkg install python
 
 $ pkg install git 
 
-$ git clone https://github.com/Cda2ptnia/B43sCrack
+$ git clone https://github.com/ulinhyuga/CarckPart-1
  
 $ pip install requests bs4
 
