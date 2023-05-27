@@ -33,7 +33,7 @@ $ pip install mechanize
 
 # Running tools
 
-$ cd B43sCrack
+$ cd CarckPart-1
 
 $ python3 FbCrack.py
 
