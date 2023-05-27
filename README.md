@@ -1,4 +1,4 @@
-# CarckPart-1
+# CrackPart-1
 
 is a tool to hack other people's Facebook using the cookie login method
 
@@ -24,7 +24,7 @@ $ pkg install python
 
 $ pkg install git 
 
-$ git clone https://github.com/ulinhyuga/CarckPart-1
+$ git clone https://github.com/ulinhyuga/CrackPart-1
  
 $ pip install requests bs4
 
@@ -33,7 +33,7 @@ $ pip install mechanize
 
 # Running tools
 
-$ cd CarckPart-1
+$ cd CrackPart-1
 
 $ python3 FbCrack.py
 
