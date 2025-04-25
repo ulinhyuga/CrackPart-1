@@ -16,7 +16,7 @@ is a tool to hack other people's Facebook using the cookie login method
 
 # Install packages
 
-[Package installation in termux]
+[Package installation]
 
 $ apt update && apt upgrade 
 
