@@ -1,18 +1,5 @@
 # 505attack
 
-is a tool to hack other people's Facebook using the cookie login method
-
-# Screenshot
-
-=> STEP 1
-![github.small](https://github.com/ulinNha/B43sCrack/blob/master/image1.png)
-
-=> STEP 2
-![github-small](https://github.com/ulinNha/B43sCrack/blob/master/image2.png)
-
-
-
-
 # Install packages
 
 [Package installation]
