@@ -1,4 +1,4 @@
-# CrackPart-1
+# 505attack
 
 is a tool to hack other people's Facebook using the cookie login method
 
@@ -23,7 +23,7 @@ $ pkg install python
 
 $ pkg install git 
 
-$ git clone https://github.com/ulinhyuga/CrackPart-1
+$ git clone https://github.com/ulinhyuga/505attack
  
 $ pip install requests bs4
 
@@ -32,7 +32,7 @@ $ pip install mechanize
 
 # Running tools
 
-$ cd CrackPart-1
+$ cd 505attack
 
 $ python3 FbCrack.py
 
